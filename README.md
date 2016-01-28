@@ -1,1 +1,1 @@
-# vmware_setup
+# vmware_workstation_setup
