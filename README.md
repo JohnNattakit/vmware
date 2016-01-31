@@ -1,1 +1,3 @@
-# vmware_workstation_setup
+# vmware_workstation
+
+[download](https://www.vmware.com/products/workstation/)
