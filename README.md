@@ -20,8 +20,14 @@ remove or rename the language folder (ie. zh_CN) and reboot the vmware workstati
 ***
 # create virtual mechine
 
-![new_vmware](https://raw.githubusercontent.com/ouiyeah/vmware_workstation/master/img/new_vmware.png "new_vmware")
-File->New Virtual Mechine (eg. install Linux/Ubuntu 64)
+![new_virtual](https://raw.githubusercontent.com/ouiyeah/vmware_workstation/master/img/new_virtual.png "new_virtual")
+![install_later](https://raw.githubusercontent.com/ouiyeah/vmware_workstation/master/img/install_later.png "install_later")
+![select_os](https://raw.githubusercontent.com/ouiyeah/vmware_workstation/master/img/select_os.png "select_os")
+go on the next to finish
+
+***
+# setup virtual mechine
+
 
 ***
 # install vmware tools
