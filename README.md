@@ -9,15 +9,13 @@ download and install workstation
 
 >5A02H-AU243-TZJ49-GTC7K-3C61N for 12.1.0
 
-进入VM安装目录，找到message文件夹；
+# change language
 
-会发现该文件夹中存在一个zh_CN的文件夹，该文件夹保存的就是vmware界面国际化-中文信息；
+open vmware workstation install folder and enter the messages sub-folder
 
-修改该文件夹的名字为其他（任意），或删除该文件夹；
+![language_folder](https://raw.githubusercontent.com/ouiyeah/vmware_workstation/master/img/language_folder.png "language_folder")
 
-重启vmware
-
-
+remove or rename the language folder (ie. zh_CN) and reboot the vmware workstation
 
 ***
 # create virtual mechine
