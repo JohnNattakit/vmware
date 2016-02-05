@@ -7,7 +7,17 @@ download and install workstation
 
 >1F04Z-6D111-7Z029-AV0Q4-3AEH8 for 11.0.0
 
->1J0KL-CZK41-H8JF3-0JAUK-CWC27 for 12.1.0
+>5A02H-AU243-TZJ49-GTC7K-3C61N for 12.1.0
+
+进入VM安装目录，找到message文件夹；
+
+会发现该文件夹中存在一个zh_CN的文件夹，该文件夹保存的就是vmware界面国际化-中文信息；
+
+修改该文件夹的名字为其他（任意），或删除该文件夹；
+
+重启vmware
+
+
 
 ***
 # create virtual mechine
