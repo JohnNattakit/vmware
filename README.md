@@ -9,6 +9,7 @@ download and install workstation
 
 >5A02H-AU243-TZJ49-GTC7K-3C61N for 12.1.0
 
+***
 # change language
 
 open vmware workstation install folder and enter the messages sub-folder
@@ -27,12 +28,24 @@ go on the next to finish
 
 ***
 # setup virtual mechine
+
 ![edit_settings](https://raw.githubusercontent.com/ouiyeah/vmware/master/img/edit_settings.png "edit_settings")
 ![browse_iso](https://raw.githubusercontent.com/ouiyeah/vmware/master/img/browse_iso.png "browse_iso")
 ![power_on](https://raw.githubusercontent.com/ouiyeah/vmware/master/img/power_on.png "power_on")
 e.g. see ubuntu installation at <https://ouiyeah.github.io/ubuntu/>
+![unmount_iso](https://raw.githubusercontent.com/ouiyeah/vmware/master/img/unmount_iso.png "unmount_iso")
+![display_settings](https://raw.githubusercontent.com/ouiyeah/vmware/master/img/display_settings.png "display_settings")
 
 ***
 # install vmware tools
 
-VM->Install VMware Tools (sudo ./VMware-install.pl)
+![load_tools](https://raw.githubusercontent.com/ouiyeah/vmware/master/img/load_tools.png "load_tools")
+![copy_tools](https://raw.githubusercontent.com/ouiyeah/vmware/master/img/copy_tools.png "copy_tools")
+![extract_tools](https://raw.githubusercontent.com/ouiyeah/vmware/master/img/extract_tools.png "extract_tools")
+![install_tools](https://raw.githubusercontent.com/ouiyeah/vmware/master/img/install_tools.png "install_tools")
+
+>cd vmware-tools-distrib
+
+>sudo ./VMware-install.pl
+
+press enter again and again to finish
