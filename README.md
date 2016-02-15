@@ -27,7 +27,10 @@ go on the next to finish
 
 ***
 # setup virtual mechine
-
+![edit_settings](https://raw.githubusercontent.com/ouiyeah/vmware/master/img/edit_settings.png "edit_settings")
+![browse_iso](https://raw.githubusercontent.com/ouiyeah/vmware/master/img/browse_iso.png "browse_iso")
+![power_on](https://raw.githubusercontent.com/ouiyeah/vmware/master/img/power_on.png "power_on")
+e.g. see ubuntu installation at <https://ouiyeah.github.io/ubuntu/>
 
 ***
 # install vmware tools
