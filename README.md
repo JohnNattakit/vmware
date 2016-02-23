@@ -44,8 +44,8 @@ e.g. see ubuntu installation at <https://ouiyeah.github.io/ubuntu/>
 ![extract_tools](https://raw.githubusercontent.com/ouiyeah/vmware/master/img/extract_tools.png "extract_tools")
 ![install_tools](https://raw.githubusercontent.com/ouiyeah/vmware/master/img/install_tools.png "install_tools")
 
->cd vmware-tools-distrib
+>$ cd vmware-tools-distrib
 
->sudo ./VMware-install.pl
+>$ sudo ./VMware-install.pl
 
 press enter again and again to finish
