@@ -35,6 +35,7 @@ go on the next to finish
 e.g. see ubuntu installation at <https://ouiyeah.github.io/ubuntu/>
 ![unmount_iso](https://raw.githubusercontent.com/ouiyeah/vmware/master/img/unmount_iso.png "unmount_iso")
 ![display_settings](https://raw.githubusercontent.com/ouiyeah/vmware/master/img/display_settings.png "display_settings")
+![network_settings](https://raw.githubusercontent.com/ouiyeah/vmware/master/img/network_settings.png "network_settings")
 
 ***
 # install vmware tools
