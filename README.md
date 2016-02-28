@@ -46,6 +46,6 @@ e.g. see ubuntu installation at <https://ouiyeah.github.io/ubuntu/>
 
 >$ cd vmware-tools-distrib
 
->$ sudo ./VMware-install.pl
+>$ sudo ./vmware-install.pl
 
 press enter again and again to finish
