@@ -51,4 +51,5 @@ e.g. see ubuntu installation at <https://ouiyeah.github.io/ubuntu/>
 press enter again and again to finish
 
 set display to auto fit guest
+
 ![display_settings](https://raw.githubusercontent.com/ouiyeah/vmware/master/img/display_settings.png "display_settings")
