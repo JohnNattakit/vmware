@@ -34,7 +34,6 @@ go on the next to finish
 ![power_on](https://raw.githubusercontent.com/ouiyeah/vmware/master/img/power_on.png "power_on")
 e.g. see ubuntu installation at <https://ouiyeah.github.io/ubuntu/>
 ![unmount_iso](https://raw.githubusercontent.com/ouiyeah/vmware/master/img/unmount_iso.png "unmount_iso")
-![display_settings](https://raw.githubusercontent.com/ouiyeah/vmware/master/img/display_settings.png "display_settings")
 ![network_settings](https://raw.githubusercontent.com/ouiyeah/vmware/master/img/network_settings.png "network_settings")
 
 ***
@@ -50,3 +49,6 @@ e.g. see ubuntu installation at <https://ouiyeah.github.io/ubuntu/>
 >$ sudo ./vmware-install.pl
 
 press enter again and again to finish
+
+set display to auto fit guest
+![display_settings](https://raw.githubusercontent.com/ouiyeah/vmware/master/img/display_settings.png "display_settings")
