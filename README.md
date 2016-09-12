@@ -53,3 +53,7 @@ press enter again and again to finish
 set display to auto fit guest
 
 ![display_settings](https://raw.githubusercontent.com/ouiyeah/vmware/master/img/display_settings.png "display_settings")
+
+reset virtual network after installing another virtual machine e.g. virtualbox
+
+![virtual_network](https://raw.githubusercontent.com/ouiyeah/vmware/master/img/virtual_network.png "virtual_network")
