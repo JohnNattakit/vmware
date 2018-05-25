@@ -39,6 +39,12 @@ e.g. see ubuntu installation at <https://ouiyeah.github.io/ubuntu/>
 ***
 # install vmware tools
 
+install open vmware tools (recommended)
+
+>$ sudo apt-get install open-vm-tools open-vm-tools-desktop
+
+install deprecated tools as follow (unrecommended)
+
 ![load_tools](https://raw.githubusercontent.com/ouiyeah/vmware/master/img/load_tools.png "load_tools")
 ![copy_tools](https://raw.githubusercontent.com/ouiyeah/vmware/master/img/copy_tools.png "copy_tools")
 ![extract_tools](https://raw.githubusercontent.com/ouiyeah/vmware/master/img/extract_tools.png "extract_tools")
