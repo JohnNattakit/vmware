@@ -9,6 +9,8 @@ download and install workstation
 
 >5A02H-AU243-TZJ49-GTC7K-3C61N for 12.1.0
 
+>ZC5XK-A6E0M-080XQ-04ZZG-YF08D for 14.0.0
+
 ***
 # change language
 
